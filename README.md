@@ -1,11 +1,16 @@
 # Creating a relational database for a hypothetical gym
-This project involves a detailed MySQL code for a relational database project of an hypothetical gym 
+This project involves a detailed SQL code for a relational database project of an hypothetical gym 
 
-It uses MYSQL workbench to run queries and takes into account the neccesary queries users (Gym members, Managers and trainers) will make.
+It spans from the conceptual through logical to the physical design to create a schema using MYSQL workbench. All included scripts were also 
+created using MySQL workbench and queries to be run were created by prioritizing performance through the use of 
 
-The project includes the following scripts which are crucial for imporving the performance of the database
 Trigger
+
 Stored Procedures 
+
 Views
+
 Security and Privacy
-Functions 
+
+Functions
+
